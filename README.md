@@ -2,7 +2,7 @@
 
 A fun, interactive particle physics simulation built with vanilla JavaScript and HTML5 Canvas. This project creates a colorful fireworks display that runs automatically and reacts to user input.
 
-## 🚀 Features
+##  Features
 
 * **Physics Engine:** Custom implementation of gravity and friction to simulate realistic particle movement.
 * **Dynamic Visuals:**
