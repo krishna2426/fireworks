@@ -1,4 +1,4 @@
-#  JS Fireworks Simulation
+#  JS Fireworks Simulation (A Sunday Project)
 
 A fun, interactive particle physics simulation built with vanilla JavaScript and HTML5 Canvas. This project creates a colorful fireworks display that runs automatically and reacts to user input.
 
